@@ -1,0 +1,12 @@
+********KAMI MENGGUNAKAN FRAMEWORK CODEIGNITER 4*********
+
+import sql nya dulu:
+mootes.sql
+
+jalankan perintah di dalam project: 
+composer require codeigniter4/framework 
+
+setelah itu jalankan perintah:
+php spark serve
+
+

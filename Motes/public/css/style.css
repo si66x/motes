@@ -1,0 +1,654 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.sampul{
+    width:100px;
+
+}
+.table > tbody > tr > *{
+    vertical-align: middle;
+}
+.backgroundAtas{
+	background-size: cover;
+	height: 750px;
+    margin-top: -120px; 
+    margin-left: -30px;
+}
+.container a{
+	font-weight: bold;
+}
+
+.nav-item a{
+	font-weight: bold;
+}
+
+.fa-bell{
+	color: #224E67;
+}
+.fa-user-circle{
+	color: #224E67;	
+}
+
+.nav-link{
+	color: #224E67;	
+}
+
+html, body{
+	height: 100%;
+
+}
+.page-wrapper{
+	min-height: 100%;
+}
+
+footer.page-footer.font-small.biru{
+    background-color:  #224E67;
+    padding-left: 40px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    color: white;
+    font-style: bold !important;
+}
+
+footer.page-footer.font-small.putih{
+    color: white;
+}
+
+footer.footer-copyright{
+    font-style: italic;
+    background-color: #224E67;
+    color: white;
+}
+
+
+.footer .footer-bottom{
+	background: #224E67;
+	color: #FFFFFF;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	padding-top: 10px;
+}
+.jumbotron.mainmenu .question h1 > p.satuline{
+    display: inline;
+}
+/*Footer*/
+
+.card-container{
+	max-width:1400px;
+	width:95%;
+}
+
+.card-body{
+	max-width:250px;
+	padding-left:10px;
+	margin-top:0px;
+	transition:.3s;
+	-webkit-transition:.3s;
+}
+
+.card-deck{
+	margin-bottom:3.2rem;
+	display: flex;
+  	flex-wrap: nowrap;
+  	overflow-x: auto;
+  	-webkit-overflow-scrolling: touch;
+}
+
+.front-deck{
+	padding-top:12rem;
+}
+
+.card{
+	margin-right:16px;
+	border:none;
+	flex: 0 0 auto;
+}
+
+.card .card-body:first-of-type{
+	border:2px solid #96cecf;
+	border-top:0px; 
+}
+.jumbotron .container {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+}
+.backgroundSama{
+    background-size: cover;
+    height: 780px;
+    text-align: center;
+    position: relative;
+}
+.jumbotron .display-5{
+    color: #224E67;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    margin-right: 380px;
+    margin-left: 380px;
+    text-align: left;
+    position: relative;
+    font-weight: bold;
+    
+}
+
+.jumbotron .text-center p{
+    color: black;
+    margin-right: 20px;
+    margin-left: 380px;
+    text-align: left;
+    position: relative;
+    font-size: x-large;
+    
+}
+
+.jumbotron.hilang .naik{
+    position: relative;
+    top:-760px;
+    background: none;
+    display: block!important;
+}
+.jumbotron.hilang {
+    background-color: #FFFFFF;
+}
+
+
+.backgroundSignUp-SignUp img{
+    background-size: cover;
+    height: 1000px!important;
+    width: 1411px;
+    margin-top: -120px; 
+    margin-left: -30px;
+  }
+
+
+
+.border.signUp{
+    border-radius: 20px;
+    background-color: white;
+    top:25%; 
+    right: 46%;
+    position: absolute;
+    max-width: 600px;
+    min-width: 25%;
+    min-height: 25%;
+
+}
+
+.warnaBiruTulisan{
+    color: #013A7B;
+    text-align: center;
+}
+
+.border.signIn{
+    border-radius: 20px;
+    background-color: white;
+    top:25%; 
+    right: 10%;
+    position: absolute;
+    max-width: 600px;
+    min-width: 25%;
+    min-height: 25%;
+
+}
+.border.signIn .hurufTipis{
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/* sesudah login */
+
+.bg.ereport{
+    background-image: url(/image/1.png) !important; 
+    height: 190%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: cover; 
+  }
+ /* .latar{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+} */
+
+
+.bg.ireport{
+    background-image: url(/image/2.png) !important; 
+    height: 190%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: cover;
+  }
+
+section{
+    min-height: 420px;
+}
+
+
+.jumbotron.putih {
+    background-size: cover;
+    display:inline-flex; 
+    width:1300px;
+    height:1100px;
+    text-align: center;
+    background-color:white;
+}
+.jumbotron.putih img{
+    height: 100%;
+    position: inherit;
+
+}
+.lihat{
+    position:relative;
+    top:30px;
+    width:1600px!important;
+}
+.lihat .satu #atas{
+    color: #F6C23E;
+    font-style: bold;
+    font-size: 14px;
+    
+}
+.lihat .satu {
+    border-radius: 12px!important;
+    background-color:white;
+    height: 90px;
+}
+.lihat .dua #atas{
+    color: #36B9CC;
+    font-style: bold;
+    font-size: 14px;
+  
+}
+
+.lihat .dua {
+    position: relative;
+    right: -380px;
+    border-radius: 12px!important;
+    background-color:white;
+    height: 90px;
+}
+.lihat .tiga #atas{
+    color: #4E73DF;
+    font-style: bold;
+    font-size: 14px;
+}
+.lihat .tiga {
+    border-radius: 12px!important;
+    background-color:white;
+    height: 90px;
+}
+.lihat .tiga .tambah{
+    height:30px;
+}
+.uang{
+    position: relative;
+    top: -28px;
+    left: 50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+img.kalender{
+    width: 30px;
+    height: 30px;
+    opacity: 50%;
+    position: relative;
+    top: -82px;
+    left: 270px;
+    
+}
+img.dolar{
+    width: 20px;
+    height: 30px;
+    opacity: 50%;
+    position: relative;
+    top: -5px;
+    left: 160px;     
+}
+
+img.rp{
+    width: 25px;
+    height: 22px;
+
+
+}
+
+img.kebawah{
+    width: 30px;
+    height: 30px;
+    float: right;
+    position: relative;
+    top: -10px;
+    
+}
+
+table {
+    margin: auto;
+    width: 90% !important; 
+ }
+ .divChart{
+     position: relative;
+     top: 100px;
+ }
+.chart{
+    width: 60%!important;
+    height: 300px;
+    position: relative;
+    border-radius: 25px;
+}
+.chart .gambar{
+    table-layout: auto;
+    border-radius: 0px 0px 25px 25px;
+    background-color: white;
+    border-spacing: 0;
+
+}
+
+ .chart .atas{
+    background-color: #B7F6D5;
+    color:#989898;
+    border-radius: 25px 25px 0px 0px;
+    font-weight: 700;
+    font-size: 21px;
+    height: 50px;
+} 
+.tabelLaporan{
+    position: relative;
+    top: 100px;
+}
+ .tabelBawah {
+    width: 60%!important;
+    height: 300px;
+    position: relative;
+    border-radius: 25px;
+}
+
+.tabelBawah .nama{
+    background-color:#B7F6D5;
+
+}
+.kolom1{
+    width: 250px;
+    background-color: #B7F6D5;
+    border-radius: 12px 0px 0px 0px;
+}
+.kolom2{
+    width: 200px;
+    background-color: #B7F6D5;
+}
+.kolom3{
+    width: 350px;
+    background-color: #B7F6D5;
+}
+.kolom4{
+    width: 200px;
+    background-color: #B7F6D5;
+    border-radius: 0px 12px 0px 0px;
+} /**/
+
+@media only screen and (max-width: 600px) {
+    html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+        
+    }
+    .jumbotron{
+        display: none;
+    }
+    .lihat .satu {
+        position: relative;
+        top: 150px;
+        
+    }
+    .lihat{
+        position:relative;
+        top: 0px;
+        width: 100%;
+    }
+    .lihat .dua {
+        position: relative;
+        top: 180px;
+    }
+    .lihat .tiga {
+        position: relative;
+        top: -150px;
+    }
+    img.kalender{
+        display: none;
+    }
+    img.dolar{
+        display: none;    
+    }
+    .chart{
+        width: 94% !important;
+        height: 0px;
+        border-radius: 25px;
+    }
+    .divChart{
+        position: relative;
+        top: 150px;
+    }
+    .tabelBawah{
+        width: 94% !important;
+    }
+    .tabelLaporan{
+        position: relative;
+        top: 150px
+    }
+    table {
+        margin: auto;
+        width: 100% !important; 
+     }
+} 
+
+/* main menu */
+.jumbotron.mainmenu{
+    background-image: url(/image/backgrund.png);
+	background-size: cover;
+	height: 750px;
+	margin-top: -120px;
+}
+.question{
+    position: relative;
+    top:50px;
+}
+
+.navbar-brand{
+	font-weight: bold;
+}
+.nav-item a{
+	font-weight: bold;
+}
+.question h1{
+	font-weight:300;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: -70px;
+
+}
+.question .lead1{
+	font-weight:bold;
+	text-align: center;
+	color: #224E67;
+	margin-top: 100px;  
+	margin-bottom:10px;
+}
+
+/* inputie */
+.bg.inputie{
+    background-image: url(/image/backgrund.png) !important; 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: cover;
+  }
+
+
+/* .border{
+  border-radius: 20px;
+  background-color: white;
+  top:25%; 
+  right: 10%;
+  position: absolute;
+  max-width: 600px;
+  min-width: 500px;
+} */
+
+.warnaBiruTulisan{
+  color: #013A7B;
+  text-align: center;
+}
+
+  #input-container {
+    position: relative;
+  }
+
+  #input-container > img {
+    position: absolute;
+    top: 8px;
+    left: 15px;
+    width: 20px;
+    height: 22px;
+  }
+
+  #input-container > input {
+    padding-left: 40px;
+  }
+
+  .tombolSubmit{
+      position: relative;;
+      align-items:center;
+      border-radius: 12px;
+      width: 40%!important;
+      height: 39px;
+      background-color: #367598;
+      color: white;
+      left: 330px;
+      bottom: -65px;
+
+  }
+
+.container >.question>h1>p{
+    display: inline;
+}
+.container >.question>h1{
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+
+/* profile */
+.bg.propil{
+    background-image: url(/image/backgrund.png) !important; 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: cover;
+  }
+ .wrapper {
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center; 
+}
+    
+  .tengahie{
+      position: relative;
+      top: 0px;
+  }
+  .inner {
+    min-width: 850px;
+    margin: auto;
+    padding-bottom: 48px;
+    background-color: white;
+    border: 5px grey;
+    border-radius:25px;
+    padding-top:50px;
+    position: relative;
+    top: -30px;
+
+}
+    .inner h3 {
+      text-align: center;
+      margin-bottom: 32px;
+      color: #013A7B;
+      letter-spacing: 2px; } 
+  
+   form.profile {
+    width: 50%;
+    padding-left: 45px; }
+  
+   .form-group.profil {
+    display: flex; }
+    .form-group.profil .form-wrapper.bungkus {
+      width: 50%; }
+      .form-group.profil .form-wrapper.bungkus:first-child {
+        margin-right: 20px; }
+  
+   .form-wrapper.bungkus {
+    margin-bottom: 17px; }
+    .form-wrapper.bungkus label {
+      margin-bottom: 9px;
+      display: block; }
+  
+  .form-control.kontrol {
+    border: 1px solid #ccc;
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 0 20px;
+    border-radius: 20px;
+    background: none; }
+    .form-control.kontrols:focus {
+      border: 1px solid #ae3c33; }  /**/
+
+       button.simpan{
+        font-size: 18px;
+          background-color:#367598;
+          width: 100%;
+          height: 35px;
+          border-radius:25px;
+          float: center;
+          color: white;
+          position: relative;
+          float: center;
+          right: -190px
+      }
+      button .tulisanbuton{
+          position: relative;
+          top: -5px;
+      }
+.userBesar{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 120px;
+    right:75px;
+}
+
+  @media (max-width: 991px) {
+    .inner {
+      min-width: 768px; } }
+  @media (max-width: 767px) {
+    .inner {
+      min-width: auto;
+      background: none;
+      padding-top: 0;
+      padding-bottom: 0; }
+  
+    form {
+      width: 100%;
+      padding-right: 15px;
+      padding-left: 15px; } }
